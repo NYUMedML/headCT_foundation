@@ -1,4 +1,5 @@
 # HeadCT-Foundation (Nature Biomedical Enginnering 2026)
+[![Paper](https://img.shields.io/badge/Paper-Nat.%20Biomed.%20Eng.-831C91)](https://www.nature.com/articles/s41551-026-01668-w)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2502.02779-FF6B6B.svg)](https://arxiv.org/abs/2502.02779)
 </div>
 
