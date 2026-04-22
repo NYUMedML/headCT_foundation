@@ -1,4 +1,4 @@
-# HeadCT-Foundation
+# HeadCT-Foundation (Nature Biomedical Enginnering 2026)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2502.02779-FF6B6B.svg)](https://arxiv.org/abs/2502.02779)
 </div>
 
@@ -125,9 +125,21 @@ Due to the possibility of inferring private patient facial features from Head CT
 ## Citation
 If you find this repository useful and want to see more details, please consider citing and checking our preprint paper:
 ```
-@article{zhu2025foundationctmodel, 
-    title={3D Foundation AI Model for Generalizable Disease Detection in Head Computed Tomography}, 
-    author={Zhu, Weicheng and Huang, Haoxu and Tang, Huanze and Musthyala, Rushabh and Yu, Boyang and Chen, Long and Vega, Emilio and O'Donnell, Thomas and Dehkharghani, Seena and Frontera, Jennifer A. and Masurkar, Arjun V. and Melmed, Kara and Razavian, Narges}, 
+@Article{Zhu2026,
+    author={Zhu, Weicheng and Huang, Haoxu and Tang, Huanze and Musthyala, Rushabh and Yu, Boyang and Chen, Long and Vega, Emilio and O'Donnell, Thomas and Hayek, Reya and Kuohn, Lindsey and Dehkharghani, Seena and Frontera, Jennifer A. and Masurkar, Arjun V. and Melmed, Kara and Razavian, Narges},
+    title={3D Foundation Model for Generalizable Disease Detection in Head Computed Tomography},
+    journal={Nature Biomedical Engineering},
+    year={2026},
+    month={Apr},
+    day={22},
+    issn={2157-846X},
+    doi={10.1038/s41551-026-01668-w},
+    url={https://doi.org/10.1038/s41551-026-01668-w}
+}
+or
+@Article{zhu2025foundationctmodel, 
+    title={3D Foundation Model for Generalizable Disease Detection in Head Computed Tomography}, 
+    author={Zhu, Weicheng and Huang, Haoxu and Tang, Huanze and Musthyala, Rushabh and Yu, Boyang and Chen, Long and Vega, Emilio and O'Donnell, Thomas and Hayek, Reya and Kuohn, Lindsey and Dehkharghani, Seena and Frontera, Jennifer A. and Masurkar, Arjun V. and Melmed, Kara and Razavian, Narges}, 
     year={2025}, 
     eprint={2502.02779}, 
     archivePrefix={arXiv}, 
